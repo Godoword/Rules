@@ -48,3 +48,6 @@ DOMAIN-SUFFIX,summer-plus.net,PROXY
 DOMAIN-SUFFIX,namebeta.com,PROXY
 DOMAIN-SUFFIX,patreon,PROXY
 DOMAIN-SUFFIX,komica2.net,PROXY
+DOMAIN-SUFFIX,slack-edge.com,Proxy
+DOMAIN-SUFFIX,slack.com,Proxy
+DOMAIN-SUFFIX,pximg.net,Proxy
