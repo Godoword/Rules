@@ -1,4 +1,6 @@
 # Global add
+DOMAIN,juicer-vri.s3-ap-northeast-1.amazonaws.com,PROXY
+DOMAIN,images-na.ssl-images-amazon.com,PROXY
 DOMAIN-SUFFIX,protonmail.com,PROXY
 DOMAIN-SUFFIX,protonmail.ch,PROXY
 DOMAIN-SUFFIX,protonvpn.com,PROXY
@@ -53,3 +55,6 @@ DOMAIN-SUFFIX,slack.com,Proxy
 DOMAIN-SUFFIX,pximg.net,Proxy
 DOMAIN-SUFFIX,sis001.com,Proxy
 DOMAIN-SUFFIX,sexinsex.net,Proxy
+DOMAIN-SUFFIX,yimg.com,Proxy
+DOMAIN-SUFFIX,yimg.jp,Proxy
+DOMAIN-SUFFIX,discord.gg,Proxy
