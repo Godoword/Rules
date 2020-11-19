@@ -1,0 +1,11 @@
+# Global add
+DOMAIN-SUFFIX,protonmail.com,PROXY
+DOMAIN-SUFFIX,protonmail.ch,PROXY
+DOMAIN-SUFFIX,protonvpn.com,PROXY
+DOMAIN-SUFFIX,riseup.net,PROXY
+DOMAIN-SUFFIX,tutanota.com,PROXY
+DOMAIN-SUFFIX,tutanota.de,PROXY
+DOMAIN-SUFFIX,dlsite.com,PROXY
+DOMAIN-SUFFIX,dlsite.jp,PROXY
+DOMAIN-SUFFIX,ci-en.net,PROXY
+DOMAIN-SUFFIX,chobit.cc,PROXY
