@@ -81,3 +81,5 @@ DOMAIN-SUFFIX,userstyles.org,Proxy
 DOMAIN-SUFFIX,9to5mac.com,Proxy
 DOMAIN-SUFFIX,cloudflare.com,Proxy
 DOMAIN-SUFFIX,cloudflarestream.com,Proxy
+DOMAIN-SUFFIX,eff.org,Proxy
+DOMAIN-SUFFIX,getmonero.org,Proxy
