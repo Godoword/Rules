@@ -73,6 +73,7 @@ DOMAIN-SUFFIX,mozilla.org,Proxy
 DOMAIN-SUFFIX,firefox.com,Proxy
 DOMAIN-SUFFIX,brave.com,Proxy
 DOMAIN-SUFFIX,privacytools.io,Proxy
+DOMAIN-SUFFIX,ghacks.net,Proxy
 DOMAIN-SUFFIX,tampermonkey.net,Proxy
 DOMAIN-SUFFIX,greasyfork.org,Proxy
 DOMAIN-SUFFIX,moke.com,Proxy
