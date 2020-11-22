@@ -68,4 +68,11 @@ DOMAIN-SUFFIX,4chan.org,Proxy
 DOMAIN-SUFFIX,stackoverflow.com,Proxy
 DOMAIN-SUFFIX,scomper.me,Proxy
 DOMAIN-SUFFIX,2djgame.net,Proxy
-DOMAIN-SUFFIX,letsencrypt.org,Proxy
+DOMAIN-SUFFIX,mozilla.com,Proxy
+DOMAIN-SUFFIX,mozilla.org,Proxy
+DOMAIN-SUFFIX,firefox.com,Proxy
+DOMAIN-SUFFIX,brave.com,Proxy
+DOMAIN-SUFFIX,privacytools.io,Proxy
+DOMAIN-SUFFIX,tampermonkey.net,Proxy
+DOMAIN-SUFFIX,greasyfork.org,Proxy
+DOMAIN-SUFFIX,moke.com,Proxy
