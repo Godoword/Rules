@@ -1,0 +1,24 @@
+# > bilibili
+DOMAIN,upos-hz-mirrorakam.akamaized.net,StreamingSE
+DOMAIN-SUFFIX,acg.tv,StreamingSE
+DOMAIN-SUFFIX,acgvideo.com,StreamingSE
+DOMAIN-SUFFIX,b23.tv,StreamingSE
+DOMAIN-SUFFIX,bigfun.cn,StreamingSE
+DOMAIN-SUFFIX,bigfunapp.cn,StreamingSE
+DOMAIN-SUFFIX,biliapi.com,StreamingSE
+DOMAIN-SUFFIX,biliapi.net,StreamingSE
+DOMAIN-SUFFIX,bilibili.com,StreamingSE
+DOMAIN-SUFFIX,bilibili.tv,StreamingSE
+DOMAIN-SUFFIX,biligame.com,StreamingSE
+DOMAIN-SUFFIX,biligame.net,StreamingSE
+DOMAIN-SUFFIX,bilivideo.com,StreamingSE
+DOMAIN-SUFFIX,hdslb.com,StreamingSE
+DOMAIN-SUFFIX,im9.com,StreamingSE
+DOMAIN-SUFFIX,smtcdns.net,StreamingSE
+# > 愛奇藝台灣站
+DOMAIN,cache.video.iqiyi.com,StreamingSE
+# > 芒果TV国际
+DOMAIN-SUFFIX,api.mgtv.com,StreamingSE
+# > WeTV
+DOMAIN-SUFFIX,wetv.vip,StreamingSE
+DOMAIN-SUFFIX,wetvinfo.com,StreamingSE
