@@ -84,3 +84,6 @@ DOMAIN-SUFFIX,cloudflare.com,Proxy
 DOMAIN-SUFFIX,cloudflarestream.com,Proxy
 DOMAIN-SUFFIX,eff.org,Proxy
 DOMAIN-SUFFIX,getmonero.org,Proxy
+DOMAIN-SUFFIX,notion.so,Proxy
+DOMAIN-SUFFIX,intercomcdn.com,Proxy
+DOMAIN-SUFFIX,intercom.io,Proxy
