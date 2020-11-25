@@ -87,3 +87,4 @@ DOMAIN-SUFFIX,getmonero.org,Proxy
 DOMAIN-SUFFIX,notion.so,Proxy
 DOMAIN-SUFFIX,intercomcdn.com,Proxy
 DOMAIN-SUFFIX,intercom.io,Proxy
+DOMAIN-SUFFIX,unpkg.com,Proxy
